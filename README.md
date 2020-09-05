@@ -1,4 +1,4 @@
-# Color Picker Colter
+# Color Picker: A React.JS App
 In this assignment, you'll create an HSL(a) color picker with React.
 
 ## Objectives
